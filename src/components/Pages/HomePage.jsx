@@ -3,13 +3,15 @@ import Banner from '../Banner/Banner.jsx'
 import CoinsTable from '../CoinsTable.jsx'
 import Spotlight from '../Spotlight.jsx'
 import Header from '../Header.tsx'
+import Learn from '../Learn.jsx'
 function HomePage() {
   return (
     <>
-        <Header />
-        <Spotlight />
-        <Banner />
-        <CoinsTable />
+      <Header />
+      <Learn />
+      <Spotlight />
+      <Banner />
+      <CoinsTable />
     </>
   )
 }
