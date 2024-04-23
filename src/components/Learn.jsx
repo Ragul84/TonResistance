@@ -6,9 +6,9 @@ const Learn = () => {
     <>
       <div className="learn">
               <Header />
-              <div className="learnn">
+              <div className="container">
                   
-              </div>
+             </div>
       </div>
       </>
       
